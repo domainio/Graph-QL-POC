@@ -10,7 +10,7 @@
 > View JSON data: open in browser localhost:**_port_**/customers
 
 
-## GraphQL CRUD
+## Test GraphQL CRUD
 > Run on localhost:**_port_**/graphql
 ### Fetch all customers
 ```
