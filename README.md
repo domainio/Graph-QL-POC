@@ -11,7 +11,7 @@
 
 
 ## GraphQL CRUD
-
+> Run on [](localhost:**_port_**/graphql)
 ### Fetch all customers
 ```
 {
