@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "koko",
+      "email": "koko@gmail.com",
+      "age": 11
+    },
+    {
+      "id": "2",
+      "name": "bobo",
+      "email": "bobo@nana.com",
+      "age": 5000
+    },
+    {
+      "id": "3",
+      "name": "lolo",
+      "email": "lolo@walla.com",
+      "age": 22
+    },
+    {
+      "name": "bob",
+      "email": "bob@dodcom",
+      "age": 93,
+      "id": "pB0dx8f"
+    }
+  ]
+}
