@@ -3,11 +3,11 @@
 `npm install`
 
 `npm run dev:start`
-> GraphQL IDE: open in browser localhost:<port>/graphql
+> GraphQL IDE: open in browser localhost:**_port_**/graphql
 
 
 `npm run json:server`
-> View JSON data: open in browser localhost:<port>/customers
+> View JSON data: open in browser localhost:**_port_**/customers
 
 
 ## GraphQL CRUD
