@@ -12,6 +12,7 @@
 
 ## Test GraphQL CRUD
 > open in browser  localhost:**_port_**/graphql
+
 > and run the queries
 ### Fetch all customers
 ```
