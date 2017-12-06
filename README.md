@@ -13,38 +13,48 @@
 ## GraphQL CRUD
 
 ### Fetch all customers
-```{
+```
+{
   customers {
     email, name, id
   }
-}```
+}
+```
 
 ### Fetch customer by id
-```{
+```
+{
   customer(id:"1"){
     email, name, id
   }
-}```
+}
+```
 
 ### Add customer
-```mutation {
+```
+mutation {
   addCustomer(name:"mobx", email:"mobx@guesty.com", age:10){
     id,
     name,
     email,
   }
-}```
+}
+```
 
 ### Del customer
-```mutation{
+```
+mutation{
   delCustomer(id:"1") {
     id
   }
-}```
+}
+```
 
 ### Edit customer
-```mutation{
+```
+mutation{
   editCustomer(id:"2", age:5000){
     id, name, email, age
   }
-}```
+}
+```
